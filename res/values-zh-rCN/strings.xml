@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_feature_bar_options">选项</string>
+    <string name="default_feature_bar_back">返回</string>
+    <string name="default_feature_bar_center">选择</string>
+</resources>

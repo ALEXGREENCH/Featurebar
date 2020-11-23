@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">8px</dimen>
+    <dimen name="activity_vertical_margin">8px</dimen>
+
+    <dimen name="feature_bar_height">32px</dimen>
+</resources>
+

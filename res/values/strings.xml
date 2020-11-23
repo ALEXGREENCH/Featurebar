@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_feature_bar_options">Options</string>
+    <string name="default_feature_bar_back">Back</string>
+    <string name="default_feature_bar_center">Select</string>
+</resources>
